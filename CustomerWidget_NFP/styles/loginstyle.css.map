@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAA;EACH,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,UAAU,EAAE,EAAE;CAMjB;;AAVD,AAKI,OALG,CAKH,UAAU,CAAA;EACN,MAAM,EAAE,8BAA8B;EACtC,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,GAAG;CACrB",
+    "sources": [
+        "loginstyle.scss"
+    ],
+    "names": [],
+    "file": "loginstyle.css"
+}
